@@ -5,7 +5,7 @@ class Router {
 
     /**
      * Add a GET route
-     * test
+     * testtest
      * @param string $uri
      * @param string $controller
      * @return void
