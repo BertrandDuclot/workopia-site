@@ -3,6 +3,15 @@
 class Router {
     protected $routes = [];
 
+    /**
+     * Add a new Route
+     * 
+     * @param $method
+     * @param string $uri
+     * @param string $controller
+     * @return void
+     */
+
     public function registerRoute($method, $uri, $controller){
         $this->routes[] = [
             'method' => $method,
