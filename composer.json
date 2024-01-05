@@ -1,0 +1,16 @@
+{
+    "name": "bertrandduclot/workopia-site",
+    "description" : "Job listing application",
+    "authors": [
+        {
+            "name" : "Bertrand Duclot",
+            "email" : "b.duclot@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
