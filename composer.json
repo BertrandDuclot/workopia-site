@@ -1,16 +1,16 @@
 {
-    "name": "bertrandduclot/workopia-site",
-    "description" : "Job listing application",
-    "authors": [
-        {
-            "name" : "Bertrand Duclot",
-            "email" : "b.duclot@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-4" : {
-            "Framework\\": "Framework/",
-            "App\\": "App/"
-        }
+  "name": "bradtraversy/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Brad Traversy",
+      "email": "support@traversymedia.com"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
 }
